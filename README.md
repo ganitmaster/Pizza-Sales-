@@ -1,1 +1,1 @@
-# Pizza-Sales-SQL PROJECT
+# Pizza-Sales-SQL-PYTHON PROJECT
